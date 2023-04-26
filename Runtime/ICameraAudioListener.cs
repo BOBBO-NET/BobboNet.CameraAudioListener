@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace BobboNet.CameraAudioListener
+namespace BobboNet
 {
     public interface ICameraAudioListener
     {
